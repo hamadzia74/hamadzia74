@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋, I Am Hamad
 <a href="https://app.daily.dev/hamadzia21"><img src="https://api.daily.dev/devcards/d21d40a67f2e4fe485b77076eedfed04.png?r=geb" width="400" alt="Hamad Zia's Dev Card"/></a>
 <!--
 **hamadzia74/hamadzia74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
