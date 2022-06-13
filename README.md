@@ -2,7 +2,7 @@
 <hr>
 <a href="https://app.daily.dev/hamadzia21"><img src="https://api.daily.dev/devcards/d21d40a67f2e4fe485b77076eedfed04.png?r=geb" width="200" alt="Hamad Zia's Dev Card"/></a>
 <br>
-<a href="https://www.facebook.com/hamad.zia21"><img src="https://github.com/hamadzia74/hamadzia74/blob/main/facebook_logo.png" title="Facebook" alt="Facebook Account" width="40"/></a> 
+<a href="https://www.facebook.com/hamad.zia21"><img src="https://github.com/hamadzia74/hamadzia74/blob/main/facebook_logo.png" title="Facebook" alt="Facebook Account" width="30"/></a> 
 &ensp;
 <a href="https://twitter.com/MS_HamadZia"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a> 
 &ensp;<a href="https://www.linkedin.com/in/hamadzia21"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a>
