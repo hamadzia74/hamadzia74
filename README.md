@@ -1,7 +1,6 @@
 ### Hi 👋, I Am Hamad
 <hr>
-<a href="https://app.daily.dev/hamadzia21"><img src="https://api.daily.dev/devcards/d21d40a67f2e4fe485b77076eedfed04.png?r=ppx" width="200" alt="Hamad Zia's Dev Card"/></a>
-<br>
+<a href="https://app.daily.dev/hamadzia21"><img src="https://api.daily.dev/devcards/d21d40a67f2e4fe485b77076eedfed04.png?r=1ci" width="200" alt="Hamad Zia's Dev Card"/></a><br>
 <hr>
 <a href="https://www.facebook.com/hamad.zia21"><img src="https://github.com/hamadzia74/hamadzia74/blob/main/facebook_logo.png" title="Facebook" alt="Facebook Account" width="30"/></a> 
 &ensp;
