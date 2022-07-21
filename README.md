@@ -1,4 +1,10 @@
 ### Hi 👋, I Am Hamad
+
+- 🔭    I’m currently working on Javascript and Reactjs, 
+- 💬    Ask me about things related to javascript, React JS
+- 📫    How to reach me: hamadzia74@gmail.com
+- ⚡     Fun fact: its a secret 
+
 <hr>
 <a href="https://app.daily.dev/hamadzia21"><img src="https://api.daily.dev/devcards/d21d40a67f2e4fe485b77076eedfed04.png?r=1ci" width="200" alt="Hamad Zia's Dev Card"/></a><br>
 <hr>
