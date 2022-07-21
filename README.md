@@ -31,3 +31,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'd love to branch out and create more useful code. If you have any suggestions or comments, feel free to email me.
+
+
