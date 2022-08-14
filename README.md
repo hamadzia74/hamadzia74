@@ -1,7 +1,7 @@
 ### Hi 👋, I Am Hamad (ReactJS Developer)
 
 - 🔭    I’m currently working on Javascript and Reactjs, 
-- 💬    Ask me about things related to HTML5, CSS3, javascript, React JS, WordPress
+- 💬    Ask me about things related to HTML5, CSS3, javascript, React JS
 - 📫    How to reach me: hamadzia74@gmail.com
 - ⚡     Fun fact: its a secret 
 
