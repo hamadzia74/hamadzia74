@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+To+Hamad's+Github+Profile..;)](https://git.io/typing-svg)
 
-### Hi 👋, I Am Hamad (ReactJS Developer)
+### Hi 👋, I Am Hamad (Frontend Developer)
 
-- 🔭    I’m currently working on Javascript and Reactjs, 
-- 💬    Ask me about things related to HTML5, CSS3, Tailwind CSS, BootStrap5, Javascript, React JS, React Authentication
+- 🔭    I’m currently working on Javascript, React.js, and Next.js 
+- 💬    Ask me about things related to HTML5, CSS3, Tailwind CSS, BootStrap5, Javascript, React.js, React Authentication, Next.js
 - 📫    How to reach me: hamadzia74@gmail.com
-- ⚡     Fun fact: its a secret 
+- ⚡     Fun fact: It's a secret 
 
 <hr>
 <a href="https://app.daily.dev/hamadzia21"><img src="https://api.daily.dev/devcards/d21d40a67f2e4fe485b77076eedfed04.png?r=1ci" width="200" alt="Hamad Zia's Dev Card"/></a><br>
