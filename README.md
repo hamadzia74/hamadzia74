@@ -14,7 +14,7 @@
 &ensp;
 <a href="https://twitter.com/MS_HamadZia"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a> 
 &ensp;<a href="https://www.linkedin.com/in/hamadzia21"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a>
-&ensp;<a href="https://www.instagram.com/hamad.zia21"><img src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" title="Instagram" alt="Instagram Account" width="30"/></a>
+&ensp;<a href="https://www.instagram.com/hamad.zia21"><img src="https://cdn.worldvectorlogo.com/logos/instagram-2016-5.svg" title="Instagram" alt="Instagram Account" width="30"/></a>
 &ensp;<a href="https://github.com/hamadzia74"><img src="https://github.com/hamadzia74/hamadzia74/blob/main/github_image.png" title="GitHub" alt="GitHub" width="30"/></a>
 &ensp;<a href="https://app.daily.dev/hamadzia21"><img src="https://github.com/hamadzia74/hamadzia74/blob/main/dev-black.png" title="daily.dev" alt="daily.devGitHub" width="30"/></a>
 <br>
