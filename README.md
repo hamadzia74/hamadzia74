@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+To+Hamad's+Github+Profile..;)](https://git.io/typing-svg)
-
 ### Hi 👋, I Am Hamad (Frontend Developer)
 
 - 🔭    I’m currently working on Javascript, React.js, and Next.js 
