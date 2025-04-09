@@ -2,7 +2,7 @@
 ### Hi 👋, I Am Hamad (Frontend Developer)
 
 - 🔭    I’m currently working on JavaScript, TypeScript, React.js, Next.js, and React Native 
-- 💬    Ask me about things related to HTML5, CSS3, Tailwind CSS, BootStrap5, Javascript, TypeScript, React.js, React Authentication, Next.js, React Native, MongoDB, and Mongoose
+- 💬    Ask me about things related to HTML5, CSS3, Tailwind CSS, BootStrap5, Javascript, TypeScript, React.js, React Authentication, Next.js, React Native, API Integration, REST APIs, GraphQL, MongoDB, and Mongoose
 - 📫    How to reach me: hamadzia74@gmail.com
 - ⚡     Fun fact: It's a secret 
 
